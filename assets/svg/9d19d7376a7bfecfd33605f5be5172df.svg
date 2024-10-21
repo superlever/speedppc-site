@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="218px" height="57px" viewBox="0 0 218 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-316, -193)">
+            <g id="Group" transform="translate(316, 193)">
+                <g id="Group-7">
+                    <polygon id="Fill-1" fill="#E73D5C" points="0 23.4117472 12.2553487 29.725 19.6722273 22.6743886 23.1489362 11.7059244 23.1489362 0"></polygon>
+                    <polygon id="Fill-2" fill="#EF5F79" points="10.1276596 24.7314782 11.907234 34.8 23.1489362 22.8377595 23.1489362 10.875"></polygon>
+                    <polygon id="Fill-3" fill="#BB243F" points="0 34.8 11.5744681 34.8 11.5744681 23.2 0 23.2"></polygon>
+                    <polygon id="Fill-4" fill="#3462B5" points="34 33.8627665 21.7446513 27.55 14.3277727 34.6006355 10.8510638 45.5691372 10.8510638 57.275"></polygon>
+                    <polygon id="Fill-5" fill="#1446A0" points="26.7659574 30.400526 22.7507107 22.475 10.8510638 34.436981 10.8510638 46.4"></polygon>
+                    <polygon id="Fill-6" fill="#0A3581" points="22.4255319 34.075 34 34.075 34 22.475 22.4255319 22.475"></polygon>
+                </g>
+                <path d="M195.185024,9 L195.185024,5.70927835 L194,5.70927835 L194,5 L197.224093,5 L197.224093,5.70927835 L196.033158,5.70927835 L196.033158,9 L195.185024,9 Z M201.143,5 L202,5 L202,9 L201.154821,9 L201.154821,6.51477663 L201.145955,6.51477663 L200.096869,8.24123711 L199.544252,8.24123711 L198.495166,6.51477663 L198.486301,6.51477663 L198.486301,9 L197.641121,9 L197.641121,5 L198.498121,5 L199.819083,7.27628866 L199.830904,7.27628866 L201.143,5 Z" id="TM" fill="#031825" fill-rule="nonzero" opacity="0.572335379"></path>
+            </g>
+            <text id="Ad-Alchemy" font-family="Aeonik-Bold, Aeonik" font-size="33" font-weight="bold" letter-spacing="-1.03516233" fill="#FFFFFF">
+                <tspan x="358" y="227">Ad Alchemy</tspan>
+            </text>
+            <path d="M527.185024,208 L527.185024,204.709278 L526,204.709278 L526,204 L529.224093,204 L529.224093,204.709278 L528.033158,204.709278 L528.033158,208 L527.185024,208 Z M533.143,204 L534,204 L534,208 L533.154821,208 L533.154821,205.514777 L533.145955,205.514777 L532.096869,207.241237 L531.544252,207.241237 L530.495166,205.514777 L530.486301,205.514777 L530.486301,208 L529.641121,208 L529.641121,204 L530.498121,204 L531.819083,206.276289 L531.830904,206.276289 L533.143,204 Z" id="TM" fill="#F6F7F8" fill-rule="nonzero" opacity="0.572335379"></path>
+            <text id="Formerly-SpeedPPC" font-family="AvertaStdCY-Light, Averta Std CY" font-size="10" font-weight="300" letter-spacing="-0.202574624" fill="#FFFFFF">
+                <tspan x="358" y="242">Formerly </tspan>
+                <tspan x="398.346828" y="242" font-family="AvertaStdCY-Semibold, Averta Std CY" font-weight="500">SpeedPPC</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
